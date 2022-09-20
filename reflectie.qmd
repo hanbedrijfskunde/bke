@@ -11,7 +11,7 @@ language:
 
 ## Handelen binnen de context van toetsbeleid en -organisatie
 
-Als eerste stap hebben we bepaalt in hoeverre het huidige toetsprogramma omtrent Afstudeeropdrachten (AOD) overeenkomt met het geformuleerde toetsbeleid. Hiervoor hebben we Toetsbeleid IBR 2017-21 als uitgangspunt genomen en deze vergeleken met de AOD-handleiding. Onze conclusie is dat alle relevante elementen zijn verwerkt in het huidige toetsontwerp.
+Als eerste stap hebben we bepaalt in hoeverre het huidige toetsprogramma omtrent Afstudeeropdrachten (AOD) overeenkomt met het geformuleerde toetsbeleid. Hiervoor hebben we Toetsbeleid IBR 2017-21 als uitgangspunt genomen en deze vergeleken met de AOD-handleiding. Onze conclusie is dat alle relevante elementen zijn verwerkt in het huidige toetsontwerp van de AOD.
 
 ## Handelen binnen het onderwijs- en toetsprogramma
 
@@ -38,7 +38,7 @@ Een afstudeeropdracht wordt bij onze opleiding altijd uitgevoerd in de praktijk.
 Één van de factoren die de subjectiviteit van de AOD als toets kan verhogen, is een verschil in complexiteit van opdrachten. Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdracht te borgen. Echter uit ervaring blijkt dat er toch nog veel variantie is qua zwaarte van de opdracht.
 
 ![](complexiteit1.png)
-We hebben vervolgens onze eigen criteria vergeleken met hetgeen op landelijk niveau over dit onderwerp beschreven wordt en kwamen tot de conclusie dat op een aantal punten kwaliteitsverbetering wenselijk is.
+We hebben onze eigen criteria vergeleken met hetgeen op landelijk niveau over dit onderwerp beschreven wordt en kwamen tot de conclusie dat op een aantal punten kwaliteitsverbetering wenselijk is.
 
 ![](loobk.png)
 
