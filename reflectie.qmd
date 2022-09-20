@@ -11,7 +11,7 @@ language:
 
 ## Handelen binnen de context van toetsbeleid en -organisatie
 
-Als eerste stap hebben we bepaalt in hoeverre het huidige toetsprogramma omtrent Afstudeeropdrachten (AOD) overeenkomt met het geformuleerde toetsbeleid. Hiervoor hebben we Toetsbeleid IBR 2017-21 als uitgangspunt genomen en deze vergeleken met de AOD-handleiding. Onze conclusie is dat alle relevante elementen zijn verwerkt in het huidige toetsontwerp van de AOD.
+Als eerste stap hebben we bepaald in hoeverre het huidige toetsprogramma omtrent Afstudeeropdrachten (AOD) overeenkomt met het geformuleerde toetsbeleid. Hiervoor hebben we Toetsbeleid IBR 2017-21 als uitgangspunt genomen en deze vergeleken met de AOD-handleiding. Onze conclusie is dat alle relevante elementen zijn verwerkt in het huidige toetsontwerp van de AOD.
 
 ## Handelen binnen het onderwijs- en toetsprogramma
 
