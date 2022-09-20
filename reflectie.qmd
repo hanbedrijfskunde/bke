@@ -4,6 +4,9 @@ author: "Witek ten Hove"
 format: html
 editor: visual
 toc: true
+language:
+   title-block-author-single: "Auteur"
+   toc-title-document: "Inhoudsopgave"
 ---
 
 ## Handelen binnen de context van toetsbeleid en -organisatie
@@ -22,13 +25,22 @@ Tijdens de eerst BKE-sessie hebben we bepaald welke aspecten van het huidige AOD
 
 ![](parels.png)
 
+De aandachtspunten hebben we gesorteerd naar prioriteit. Na deze inventarisatie hebben we besloten om te focussen op het eerste onderwerp, nl. de vergelijkbaarheid van opdrachten.
+
 ## Toepassen toetskennis en -vaardigheden
 
-Als we kijken naar het model van Miller dan vindt de toetsing plaats op de hoogste cognitieve niveaus ('Does' en 'Trusted'). De student moet hier laten zien dat hij gereed is om zelfstandig in de praktijk als professional te opereren.
+Als we kijken naar het model van Miller dan vindt de toetsing plaats op de hoogste cognitieve niveaus ('Does' en 'Trusted'). De student moet hier laten zien dat hij gereed is om zelfstandig in de praktijk als professional te opereren en verdiend hiermee zijn Bachelor diploma.
 
-Een afstudeeropdracht wordt dus altijd uitgevoerd in de praktijk. Dit maakt het onmogelijk om een beheersbare toetsomgeving te creëren waarin iedere student objectief getoetst wordt. Er is dus sprake van een hoge mate van authenticiteit en een hoge subjectiviteit.
+Een afstudeeropdracht wordt bij onze opleiding altijd uitgevoerd in de praktijk. Dit maakt het per definitie onmogelijk om een beheersbare toetsomgeving te creëren waarin iedere student objectief getoetst wordt. Er is dus sprake van een hoge mate van authenticiteit en een hoge subjectiviteit.
 
 ![](miller.png)
+
+Één van de factoren die de subjectiviteit van de AOD als toets kan verhogen, is een verschil in complexiteit van opdrachten. Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdracht te borgen. Echter uit ervaring blijkt dat er toch nog veel variantie is qua zwaarte van de opdracht.
+
+![](complexiteit1.png)
+We hebben vervolgens onze eigen criteria vergeleken met hetgeen op landelijk niveau over dit onderwerp beschreven wordt en kwamen tot de conclusie dat op een aantal punten kwaliteitsverbetering wenselijk is.
+
+![](loobk.png)
 
 ## Continue ontwikkeling toetsbekwaamheid
 
