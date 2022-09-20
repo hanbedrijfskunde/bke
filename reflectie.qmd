@@ -1,0 +1,39 @@
+---
+title: "Reflectie BKE"
+author: "Witek ten Hove"
+format: html
+editor: visual
+toc: true
+---
+
+## Kwaliteitscriteria Basiskwalificatie Examinator
+
+-   Kwaliteit 1: je handelt binnen de context van het toetsbeleid en de toetsorganisatie
+
+-   Kwaliteit 2: je handelt binnen het onderwijs-en toetsprogramma
+
+-   Kwaliteit 3: je past toetskennis en -vaardigheden adequaat toe
+
+-   Kwaliteit 4: je blijft toetsbekwaam
+
+### Handelen binnen de context van het toetsbeleid en de toetsorganisatie
+
+Als eerste stap hebben we bepaalt in hoeverre het huidige toetsprogramma omtrent Afstudeeropdrachten (AOD) overeenkomt met het geformuleerde toetsbeleid. Hiervoor hebben we Toetsbeleid IBR 2017-21 als uitgangspunt genomen en deze vergeleken met de AOD-handleiding. Onze conclusie is dat alle relevante elementen zijn verwerkt in het huidige toetsontwerp.
+
+### Handelen binnen het onderwijs- en toetsprogramma
+
+De afstudeeropdracht is het laatste onderdeel van het studieprogramma. Alle competenties worden op het allerhoogste niveau (3) getoetst.
+
+![](hoofddoelaod.png)
+
+### Toepassen toetskennis en -vaardigheden
+
+Als we kijken naar het model van Miller dan vindt de toetsing plaats op de hoogste cognitieve niveaus ('Does' en 'Trusted'). De student moet hier laten zien dat hij gereed is om zelfstandig in de praktijk als professional te opereren.
+
+Een afstudeeropdracht wordt dus altijd uitgevoerd in de praktijk. Dit maakt het onmogelijk om een beheersbare toetsomgeving te creëren waarin iedere student objectief getoetst wordt. Er is dus sprake van een hoge mate van authenticiteit en een hoge subjectiviteit.
+
+![](miller.png)
+
+### Continue ontwikkeling toetsbekwaamheid
+
+![](toetscyclus.png)
