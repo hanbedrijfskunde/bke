@@ -1,32 +1,28 @@
 ---
-title: "Reflectie BKE"
+title: "Reflectie Basiskwalificatie Examinator (BKE)"
 author: "Witek ten Hove"
 format: html
 editor: visual
 toc: true
 ---
 
-## Kwaliteitscriteria Basiskwalificatie Examinator
-
--   Kwaliteit 1: je handelt binnen de context van het toetsbeleid en de toetsorganisatie
-
--   Kwaliteit 2: je handelt binnen het onderwijs-en toetsprogramma
-
--   Kwaliteit 3: je past toetskennis en -vaardigheden adequaat toe
-
--   Kwaliteit 4: je blijft toetsbekwaam
-
-### Handelen binnen de context van het toetsbeleid en de toetsorganisatie
+## Handelen binnen de context van toetsbeleid en -organisatie
 
 Als eerste stap hebben we bepaalt in hoeverre het huidige toetsprogramma omtrent Afstudeeropdrachten (AOD) overeenkomt met het geformuleerde toetsbeleid. Hiervoor hebben we Toetsbeleid IBR 2017-21 als uitgangspunt genomen en deze vergeleken met de AOD-handleiding. Onze conclusie is dat alle relevante elementen zijn verwerkt in het huidige toetsontwerp.
 
-### Handelen binnen het onderwijs- en toetsprogramma
+## Handelen binnen het onderwijs- en toetsprogramma
 
 De afstudeeropdracht is het laatste onderdeel van het studieprogramma. Alle competenties worden op het allerhoogste niveau (3) getoetst.
 
 ![](hoofddoelaod.png)
 
-### Toepassen toetskennis en -vaardigheden
+Omdat de AOD de afsluiting van het studietraject vormt, heeft deze toets altijd veel aandacht gekregen, zowel binnen de opleiding als bij externe stakeholders (bijv. bij tijdens accreditatie). Het huidige ontwerp, inclusief het bijbehorende kwaliteitssysteem werkt naar tevredenheid van alle betrokken (dit wordt regelmatig gecontroleerd m.b.v. kalibratiesessies).
+
+Tijdens de eerst BKE-sessie hebben we bepaald welke aspecten van het huidige AOD-systeem we uitmuntend vinden ('de parels') en welke aspecten nog aandacht verdienen ('de knikkers').
+
+![](parels.png)
+
+## Toepassen toetskennis en -vaardigheden
 
 Als we kijken naar het model van Miller dan vindt de toetsing plaats op de hoogste cognitieve niveaus ('Does' en 'Trusted'). De student moet hier laten zien dat hij gereed is om zelfstandig in de praktijk als professional te opereren.
 
@@ -34,6 +30,6 @@ Een afstudeeropdracht wordt dus altijd uitgevoerd in de praktijk. Dit maakt het 
 
 ![](miller.png)
 
-### Continue ontwikkeling toetsbekwaamheid
+## Continue ontwikkeling toetsbekwaamheid
 
 ![](toetscyclus.png)
