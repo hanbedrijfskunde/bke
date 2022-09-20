@@ -21,6 +21,8 @@ De afstudeeropdracht is het laatste onderdeel van het studieprogramma. Alle comp
 
 Omdat de AOD de afsluiting van het studietraject vormt, heeft deze toets altijd veel aandacht gekregen, zowel binnen de opleiding als bij externe stakeholders (bijv. bij tijdens accreditatie). Het huidige ontwerp, inclusief het bijbehorende kwaliteitssysteem werkt naar tevredenheid van alle betrokken (dit wordt regelmatig gecontroleerd m.b.v. kalibratiesessies).
 
+![](stakeholders.png)
+
 Tijdens de eerst BKE-sessie hebben we bepaald welke aspecten van het huidige AOD-systeem we uitmuntend vinden ('de parels') en welke aspecten nog aandacht verdienen ('de knikkers').
 
 ![](parels.png)
