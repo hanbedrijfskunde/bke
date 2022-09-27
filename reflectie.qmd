@@ -117,7 +117,7 @@ Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdr
 
 ### Continue ontwikkeling toetsbekwaamheid {#sec-ontwikkeling}
 
-Om een beter gevoel te krijgen bij de door de LOO geformuleerde set van criteria rondom complexiteit hebben we vanuit onze eigen ervaring casussen opgehaald en deze volgens de criteria gewaardeerd.
+Om een beter gevoel te krijgen bij de door het LOO BK geformuleerde set van criteria rondom complexiteit hebben we vanuit onze eigen ervaring casussen opgehaald en deze volgens de criteria gewaardeerd.
 
 ![](criterium.png)
 
