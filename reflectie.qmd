@@ -123,12 +123,10 @@ Om een beter gevoel te krijgen bij de door de LOO geformuleerde set van criteria
 
 Na deze exercitie ontstond het idee om dezelfde werkwijze te gebruiken tijdens een kalibreersessie om data op te halen bij onze stakeholders. Daarmee kunnen we vervolgens een goed beeld vormen omtrent de omvang van het probleem en de meest belangrijke aandachtspunten.
 
-De probleemdefinitie vormt het uitgangspunt voor een tweede kalibreersessies. In deze sessie laten we dezelfde groep stakeholders een aantal ontwerpen voor een oplossing generenen. De afzonderlijke ontwerpen worden vergeleken en in een volgende ronde worden ze verwerkt in een aantal definitieve ontwerpen. Deze oplossingen zullen parallel worden getest in de praktijk. De testopzet zal ook weer via een aparte kalibreersessie worden bepaald.
+De probleemdefinitie vormt het uitgangspunt voor een tweede kalibreersessies. In deze sessie laten we dezelfde groep stakeholders een aantal ontwerpen voor een oplossing genereren. De afzonderlijke ontwerpen worden vergeleken en in een volgende ronde worden ze verwerkt in een aantal definitieve ontwerpen. Deze oplossingen zullen parallel worden getest in de praktijk. De testopzet zal ook weer via een aparte kalibreersessie worden bepaald.
 
 ![](sessions.png)
 
-Nadat de oplossingen zijn getest, zullen de testresultaten worden geanalyseerd en gewaardeerd. De aandachtspunten die hieruit volgen zullen worden gebruikt bij de start van een nieuwe verbetercysclus.
+Nadat de oplossingen zijn getest, zullen de testresultaten worden geanalyseerd en geëvalueerd. De aandachtspunten die hieruit volgen zullen worden gebruikt bij de start van een nieuwe verbetercysclus.
 
 ![](toetscyclus.png)
-
-
