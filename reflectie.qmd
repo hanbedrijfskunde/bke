@@ -19,7 +19,7 @@ De afstudeeropdracht is het laatste onderdeel van het studieprogramma. Alle comp
 
 ![](hoofddoelaod.png)
 
-Omdat de AOD de afsluiting van het studietraject vormt, heeft deze toets altijd veel aandacht gekregen, zowel binnen de opleiding als bij externe stakeholders (bijv. bij tijdens accreditatie). Het huidige ontwerp, inclusief het bijbehorende kwaliteitssysteem werkt naar tevredenheid van alle betrokken (dit wordt regelmatig gecontroleerd m.b.v. kalibratiesessies).
+Omdat de AOD de afsluiting van het studietraject vormt, heeft deze toets altijd veel aandacht gekregen, zowel binnen de opleiding als bij externe stakeholders (bijv. tijdens accreditatietrajecten). Het huidige ontwerp, inclusief het bijbehorende kwaliteitssysteem werkt naar tevredenheid van alle betrokken (dit wordt regelmatig gecontroleerd m.b.v. kalibratiesessies).
 
 ![](stakeholders.png)
 
@@ -27,7 +27,7 @@ Tijdens de eerst BKE-sessie hebben we bepaald welke aspecten van het huidige AOD
 
 ![](parels.png)
 
-De aandachtspunten hebben we gesorteerd naar prioriteit. Na deze inventarisatie hebben we besloten om te focussen op het eerste onderwerp, nl. de vergelijkbaarheid van opdrachten.
+De aandachtspunten hebben we geordend naar prioriteit. We hebben besloten om te focussen op het eerste onderwerp, nl. de vergelijkbaarheid van opdrachten.
 
 ## Toepassen toetskennis en -vaardigheden
 
@@ -37,7 +37,7 @@ Een afstudeeropdracht wordt bij onze opleiding altijd uitgevoerd in de praktijk.
 
 ![](miller.png)
 
-Één van de factoren die de subjectiviteit van de AOD als toets kan verhogen, is een verschil in complexiteit van opdrachten. Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdracht te borgen. Echter uit ervaring blijkt dat er toch nog veel variantie is qua zwaarte van de opdracht.
+Één van de factoren die de subjectiviteit van de AOD als toets kan verhogen, is een verschil in complexiteit van opdrachten. Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdracht te borgen. Deze criteria gaan over de praktijkomgeving, de beslissingslaag en de mate van zelfstandig acteren. Ondanks deze kwaliteitscriteria blijkt uit ervaring dat er toch nog veel variantie is qua zwaarte van de opdracht.
 
 ![](complexiteit1.png)
 We hebben onze eigen criteria vergeleken met hetgeen op landelijk niveau over dit onderwerp beschreven wordt en kwamen tot de conclusie dat op een aantal punten kwaliteitsverbetering wenselijk is.
