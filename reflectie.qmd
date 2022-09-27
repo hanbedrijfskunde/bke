@@ -17,7 +17,7 @@ language:
 
 #### Werken in co-creatie
 
-Omdat Jeroen en ik het vaak hebben over verbetermogelijkheden voor het afstudeertraject, was ik blij met de gelegenheid om er nu ook eens echt samen aan te mogen werken. Wat ik heel erg nodig heb voor een goede samewerking zijn partners met weinig ego (of die deze uit kunnen zetten) en met een "JA, EN"-houding. Jeroen is zo een persoon en daarom konden we heel snel schakelen en resultaten boeken. Ik ben heel erg tevreden over de uitkomsten tot nu toe en heb heel veel zin om dit samen met Jeroen verder uit te werken.
+Omdat Jeroen en ik het vaak hebben over verbetermogelijkheden voor het afstudeertraject, was ik blij met de gelegenheid om er nu ook eens echt samen aan te mogen werken. Wat ik heel erg nodig heb voor een goede samenwerking zijn partners met weinig ego (of die deze uit kunnen zetten) en met een "JA, EN"-houding. Jeroen is zo een persoon en daarom konden we heel snel schakelen en resultaten boeken. Ik ben heel erg tevreden over de uitkomsten tot nu toe en heb heel veel zin om dit samen met Jeroen verder uit te werken.
 
 #### Competente professional als uitgangspunt
 
@@ -51,6 +51,8 @@ Ik vond dit onderscheid heel verhelderend en ga hier in de toekomst beter op let
 
 #### Zel-com-model
 
+![](zelcom.png)
+
 We hebben het Zel-com-model toegepast op onze casus. Echter de discussie rondom de zwaarte van opdrachten vind op meerdere plekken in het curriculum plaats en ook daar kan het model helpen betere afwegingen te maken.
 
 #### Hogere authenticiteit betekent lagere subjectiviteit
@@ -59,12 +61,13 @@ Samen met het besef dat dit onontkomelijk is, was deze relatie voor mij een nieu
 
 #### Alternatieve modellen Bloom
 
-Ik maak veel gebruik van Bloom bij het formuleren van leeruitkomsten. Echter het komt wel eens voor dat de formulering van niveaus en taxonomieën niet lijken te passen bij de bedoeling van een module. Nu begrijp ik dat dit komt dooordat er verschillende categorieën doelstellingen zijn. Ik ga dit zeker nader uitzoeken en gebruiken.
+Ik maak veel gebruik van Bloom bij het formuleren van leeruitkomsten. Echter het komt wel eens voor dat de formulering van niveaus en taxonomieën niet lijken te passen bij de bedoeling van een module. Nu begrijp ik dat dit komt doordat er verschillende categorieën doelstellingen zijn. Ik ga dit zeker nader uitzoeken en gebruiken.
 
 #### Bepalen grens voldoende / onvoldoende
 
-Dit heeft een relatie met het holistisch benaderen van toetsing. Het appelleert heel erg aan mijn behoefte om vanuit eigen professionaliteit te kunnen werken en oordelen.
+![](smart.png)
 
+Dit heeft een relatie met het holistisch benaderen van toetsing. Het appelleert heel erg aan mijn behoefte om vanuit eigen professionaliteit te kunnen werken en oordelen.
 
 ## Opdracht
 
@@ -106,8 +109,6 @@ Een afstudeeropdracht wordt bij onze opleiding altijd uitgevoerd in de praktijk.
 
 Één van de factoren die de subjectiviteit van de AOD als toets kan verhogen, is een verschil in complexiteit van opdrachten.
 
-![](zelcom.png)
-
 Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdracht te borgen. Deze criteria gaan over de praktijkomgeving, de beslissingslaag en de mate van zelfstandig acteren. Ondanks deze kwaliteitscriteria blijkt uit ervaring dat er toch nog veel variantie is qua zwaarte van de opdracht.
 
 ![](complexiteit1.png) We hebben onze eigen criteria vergeleken met hetgeen op landelijk niveau over dit onderwerp beschreven wordt en kwamen tot de conclusie dat op een aantal punten kwaliteitsverbetering wenselijk is.
@@ -116,4 +117,18 @@ Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdr
 
 ### Continue ontwikkeling toetsbekwaamheid {#sec-ontwikkeling}
 
+Om een beter gevoel te krijgen bij de door de LOO geformuleerde set van criteria rondom complexiteit hebben we vanuit onze eigen ervaring casussen opgehaald en deze volgens de criteria gewaardeerd.
+
+![](criterium.png)
+
+Na deze exercitie ontstond het idee om deze werkwijze te gebruiken tijdens een kalibreersessie om data op te halen bij onze stakeholders. Daarmee kunnen we vervolgens een goed beeld vormen omtrent de omvang van het probleem en de meest belangrijke aandachtspunten.
+
+De probleemdefinitie vormt het uitgangspunt voor een tweede kalibreersessies. In deze sessie laten we dezelfde groep stakeholders een aantal ontwerpen voor een oplossing generenen. De afzonderlijke ontwerpen worden vergeleken en in een volgende ronde worden ze verwerkt in een aantal definitieve ontwerpen. Deze oplossingen zullen parallel worden getest in de praktijk. De testopzet zal ook weer via een aparte kalibreersessie worden bepaald.
+
+![](sessions.png)
+
+Nadat de oplossingen zijn getest, zullen de testresultaten worden geanalyseerd en gewaardeerd. De aandachtspunten die hieruit volgen zullen worden gebruikt bij de start van een nieuwe verbetercysclus.
+
 ![](toetscyclus.png)
+
+
