@@ -121,7 +121,7 @@ Om een beter gevoel te krijgen bij de door de LOO geformuleerde set van criteria
 
 ![](criterium.png)
 
-Na deze exercitie ontstond het idee om deze werkwijze te gebruiken tijdens een kalibreersessie om data op te halen bij onze stakeholders. Daarmee kunnen we vervolgens een goed beeld vormen omtrent de omvang van het probleem en de meest belangrijke aandachtspunten.
+Na deze exercitie ontstond het idee om dezelfde werkwijze te gebruiken tijdens een kalibreersessie om data op te halen bij onze stakeholders. Daarmee kunnen we vervolgens een goed beeld vormen omtrent de omvang van het probleem en de meest belangrijke aandachtspunten.
 
 De probleemdefinitie vormt het uitgangspunt voor een tweede kalibreersessies. In deze sessie laten we dezelfde groep stakeholders een aantal ontwerpen voor een oplossing generenen. De afzonderlijke ontwerpen worden vergeleken en in een volgende ronde worden ze verwerkt in een aantal definitieve ontwerpen. Deze oplossingen zullen parallel worden getest in de praktijk. De testopzet zal ook weer via een aparte kalibreersessie worden bepaald.
 
