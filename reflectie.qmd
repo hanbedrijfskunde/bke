@@ -9,9 +9,17 @@ language:
    toc-title-document: "Inhoudsopgave"
 ---
 
+## Persoonlijke reflectie
+
+Ik word regelmatig als begeleider en examinator ingezet bij afstudeeropdrachten (AODs). Voor deze casus werk ik samen met Jeroen van den Hoogen. Hij is praktijkcoordinator en onder andere verantwoordelijk voor alle processen rondom afstuderen. Het door ons gekozen onderwerp herken ik uit mijn eigen praktijk en ik geloof dat er nog veel ruimte is voor verbetering.
+
+Wat ik in mijn werkomgeving zie, is dat vraagstukken vaak binnen een beperkte groep worden opgelost. In mijn beleving levert dit bijna nooit een optimale oplossing. Voor onze casus vind ik het belangrijk dat bij de oplossing een grote en diverse groep van stakeholders wordt betrokken. Om de kans te vergroten dat een daadwerkelijk optimale oplossing wordt gevonden, zal veel aandacht moeten worden besteed aan het ontwerpproces.
+
+<Belangrijkste leer- en inspiratiepunten / momenten>
+
 ## Handelen binnen de context van toetsbeleid en -organisatie
 
-Als eerste stap hebben we bepaald in hoeverre het huidige toetsprogramma omtrent de afstudeeropdracht (AOD) overeenkomt met het geformuleerde toetsbeleid. Hiervoor hebben we het [Toetsbeleid IBR 2017-21](toetsbeleidsplan.pdf) als uitgangspunt genomen en deze vergeleken met de [AOD-handleiding](aodhandleiding.pdf). Onze conclusie is dat alle relevante elementen zijn verwerkt in het huidige toetsontwerp van de AOD.
+Als eerste stap hebben we bepaald in hoeverre het huidige toetsprogramma omtrent de afstudeeropdracht overeenkomt met het geformuleerde toetsbeleid. Hiervoor hebben we het [Toetsbeleid IBR 2017-21](toetsbeleidsplan.pdf) als uitgangspunt genomen en deze vergeleken met de [AOD-handleiding](aodhandleiding.pdf). Onze conclusie is dat alle relevante elementen zijn verwerkt in het huidige toetsontwerp van de AOD.
 
 ## Handelen binnen het onderwijs- en toetsprogramma
 
@@ -37,7 +45,11 @@ Een afstudeeropdracht wordt bij onze opleiding altijd uitgevoerd in de praktijk.
 
 ![](miller.png)
 
-Één van de factoren die de subjectiviteit van de AOD als toets kan verhogen, is een verschil in complexiteit van opdrachten. Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdracht te borgen. Deze criteria gaan over de praktijkomgeving, de beslissingslaag en de mate van zelfstandig acteren. Ondanks deze kwaliteitscriteria blijkt uit ervaring dat er toch nog veel variantie is qua zwaarte van de opdracht.
+Één van de factoren die de subjectiviteit van de AOD als toets kan verhogen, is een verschil in complexiteit van opdrachten.
+
+![](zelcom.png)
+
+Op dit moment zijn er criteria geformuleerd om een basiscomplexiteit van de opdracht te borgen. Deze criteria gaan over de praktijkomgeving, de beslissingslaag en de mate van zelfstandig acteren. Ondanks deze kwaliteitscriteria blijkt uit ervaring dat er toch nog veel variantie is qua zwaarte van de opdracht.
 
 ![](complexiteit1.png)
 We hebben onze eigen criteria vergeleken met hetgeen op landelijk niveau over dit onderwerp beschreven wordt en kwamen tot de conclusie dat op een aantal punten kwaliteitsverbetering wenselijk is.
