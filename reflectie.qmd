@@ -61,7 +61,7 @@ Samen met het besef dat dit onontkomelijk is, was deze relatie voor mij een nieu
 
 #### Alternatieve modellen Bloom
 
-Ik maak veel gebruik van Bloom bij het formuleren van leeruitkomsten. Echter het komt wel eens voor dat de definitie van niveaus en taxonomieën niet lijkt te passen bij de bedoeling van een module. Nu begrijp ik dat dit komt doordat er verschillende categorieën doelstellingen zijn. Ik ga dit zeker nader uitzoeken en gebruiken.
+Ik maak veel gebruik van Bloom bij het formuleren van leeruitkomsten. Echter het komt wel eens voor dat de definitie van niveaus en de taxonomieën niet lijken te passen bij de bedoeling van de module. Nu begrijp ik dat dit komt doordat er verschillende categorieën doelstellingen zijn. Ik ga dit zeker nader uitzoeken en gebruiken.
 
 #### Bepalen grens voldoende / onvoldoende
 
@@ -77,7 +77,7 @@ Wat ik in mijn werkomgeving zie, is dat vraagstukken vaak binnen een beperkte gr
 
 ![](desthink.png)
 
-Tijdens de BKW-training hebben we 'Discover'- en 'Define'-fases doorlopen. We zijn begonnen met een inventarisatie van mogelijke vraagstukken die we zouden kunnen oppakken. Deze hebben we geordend naar prioriteit en we besloten het eerste punt op te pakken voor als BKE-casus. De methode van aanpak voor de fases "Develop" en "Deliver" zullen worden besproken bij het onderdeel ["Continue ontwikkeling toetsbekwaamheid"](#sec-ontwikkeling).
+Tijdens de BKE-training hebben we 'Discover'- en 'Define'-fases doorlopen. We zijn begonnen met een inventarisatie van mogelijke vraagstukken die we zouden kunnen oppakken. Deze hebben we geordend naar prioriteit en we besloten het eerste punt op te pakken voor als BKE-casus. De methode van aanpak voor de fases "Develop" en "Deliver" zullen worden besproken bij het onderdeel ["Continue ontwikkeling toetsbekwaamheid"](#sec-ontwikkeling).
 
 ### Handelen binnen de context van toetsbeleid en -organisatie
 
