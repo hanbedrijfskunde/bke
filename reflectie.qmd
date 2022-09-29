@@ -77,7 +77,7 @@ Wat ik in mijn werkomgeving vaak zie, is dat vraagstukken binnen een beperkte gr
 
 ![](desthink.png)
 
-Tijdens de BKE-training hebben we 'Discover'- en 'Define'-fases doorlopen. We zijn begonnen met een inventarisatie van mogelijke vraagstukken die we zouden kunnen oppakken. Deze hebben we geordend naar prioriteit en we besloten het eerste punt op te pakken voor als BKE-casus. De methode van aanpak voor de fases "Develop" en "Deliver" zullen worden besproken bij het onderdeel ["Continue ontwikkeling toetsbekwaamheid"](#sec-ontwikkeling).
+Tijdens de BKE-training hebben we 'Discover'- en 'Define'-fases doorlopen. We zijn begonnen met een inventarisatie van mogelijke vraagstukken die we zouden kunnen oppakken. Deze hebben we geordend naar prioriteit en we besloten het eerste punt op te pakken als BKE-casus. De methode van aanpak voor de fases "Develop" en "Deliver" zullen worden besproken bij het onderdeel ["Continue ontwikkeling toetsbekwaamheid"](#sec-ontwikkeling).
 
 ### Handelen binnen de context van toetsbeleid en -organisatie
 
